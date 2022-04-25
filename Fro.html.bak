@@ -1,0 +1,19 @@
+<html>
+<body>
+<h1>
+CSS CORP
+</h1>
+<form>
+First Name:<input type="text"><br/>
+Last Name:<input type="text"><br/>
+College MailId:<input type="text"><br/>
+Age:<input type="number"><br/>
+Gender:<br/>
+Male:<input type="radio">
+Female:<input type="radio"><br/>
+D.O.B:<input type="number"><br/>
+College Name:<input type="text"><br/>
+	<input type="submit" value="submit">
+</form>
+</body>
+</html>
