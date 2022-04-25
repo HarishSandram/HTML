@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" type="text/css" href="style1.css">
+    </head>
+    <body>
+        <div class="main">
+            <div class="flex-container">
+                <div> <button class="btn btn-primary" type="button">Home</button></div>
+                <div> <button class="btn btn-primary" type="button">About</button></div>
+                <div> <button class="btn btn-primary" type="button">Contact</button></div>
+            </div>
+            <div class="banner">
+                <img id="banner-image" src="https://www.vippng.com/png/full/361-3612977_website-background-png-tech-background-image-for-website.png">
+                <div class="banner-title">Harish Sandram</div>
+                <div class="banner-subtitle">RAJALAKSHMI ENGINEERING COLLEGE </div>
+            </div>
+            <div class="skills-heading">
+               My Skills
+            </div>
+            <div class="skills">
+                <div class="skill1">
+                    <img id="skill-image" src="https://cdn4.iconfinder.com/data/icons/flat-brand-logo-2/512/html5-256.png">
+                </div>
+                <div class="skill-title">HTML 5 </div>
+                <div class="skill2">
+                    <img id="skill-image" src="https://cdn0.iconfinder.com/data/icons/programming-1-1/32/Programming_C-2-256.png">
+                </div>
+                <div class="skill-title">C</div>
+                <div class="skill3">
+                    <img id="skill-image" src="https://cdn1.iconfinder.com/data/icons/MetroStation-PNG/128/MB__java.png">
+                </div>
+                <div class="skill-title">Java</div>
+            </div>
+            <div class="project-heading">
+                Project
+            </div>
+            <hr>
+            <div class="project-container">
+                <div class="project-image">
+                    <img id="pro-image" src="https://csg.tinkercad.com/things/8twPR1uNwzK/t725.png?rev=1585644107845000000&s=&v=1&type=circuits">
+                </div>
+                <div class="project">
+                <div class="project-title">
+                    Fire Alarm System
+                </div>
+                <div class="pro-desc">
+                    
+                    Fire Alarm System Project by Interfacing Arduino with Temperature & Gas Sensor using TinkerCad.
+
+                </div>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>
